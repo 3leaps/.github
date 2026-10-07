@@ -1,0 +1,18 @@
+# Local-only agent instructions
+AGENTS.local.md
+
+# Local env
+.env.local
+.env.*.local
+
+# Local scratch
+.scratch/
+tmp/
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
+

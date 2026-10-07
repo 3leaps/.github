@@ -1,0 +1,14 @@
+# yamlfmt configuration (3 Leaps)
+
+formatter:
+  type: basic
+  indent: 2
+  line_ending: lf
+
+exclude:
+  - node_modules/**
+  - vendor/**
+  - .git/**
+  - dist/**
+  - bundles/**
+  - target/**
