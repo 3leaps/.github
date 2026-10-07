@@ -1,0 +1,9 @@
+# Adapted from https://github.com/3leaps/oss-policies
+blank_issues_enabled: false
+contact_links:
+  - name: Support and documentation
+    url: https://github.com/3leaps/.github/blob/main/SUPPORT.md
+    about: Find project documentation and the right place to ask for help
+  - name: Report a security vulnerability privately
+    url: https://github.com/3leaps/oss-policies/blob/main/SECURITY.md
+    about: Use the private reporting instructions, not a public issue
